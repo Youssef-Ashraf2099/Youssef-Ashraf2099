@@ -18,6 +18,7 @@ Hi there! I'm Youssef, a passionate and dedicated computer science student with 
 -  Basic front-end web development   <img src="https://logos-download.com/wp-content/uploads/2017/07/HTML5_badge.png" alt="HTML" width="50" height="50">     
 ### Tools & Technologies
 - **Git & GitHub**: Version control and collaborative development   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1920px-Git-logo.svg.png" alt="git" width="100" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/330px-GitHub_Invertocat_Logo.svg.png" alt="Github" width="50" height="50">
+- **Database**: Database mangemet  <img src="https://www.sqlservertutorial.net/wp-content/uploads/sql-server-tutorial.svg" alt="Tsql" width="100" height="50"> 
 - **Unity**: For game development  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Unity_2021.svg/1920px-Unity_2021.svg.png" alt="Unity" width="100" height="50">
 
 
