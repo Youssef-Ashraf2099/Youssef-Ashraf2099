@@ -3,11 +3,11 @@
 </h1>
 
 <h1 align="center">Hi 👋, I'm Youssef</h1>
-<h3 align="center">A passionate in computer science field specially in software and cyber security fields</h3>
+<h3 align="center">A passionate in computer science field especially in software and cyber security fields</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=youssef-ashraf2099&label=Profile%20views&color=0e75b6&style=flat" alt="youssef-ashraf2099" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Youssef-Ashraf2099&label=Profile%20views&color=0e75b6&style=flat" alt="Youssef-Ashraf2099" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=youssef-ashraf2099" alt="youssef-ashraf2099" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Youssef-Ashraf2099" alt="Youssef-Ashraf2099" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -41,8 +41,8 @@
 </div>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=youssef-ashraf2099&show_icons=true&locale=en&layout=compact" alt="youssef-ashraf2099" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Youssef-Ashraf2099&show_icons=true&locale=en&layout=compact" alt="Youssef-Ashraf2099" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=youssef-ashraf2099&show_icons=true&locale=en" alt="youssef-ashraf2099" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Youssef-Ashraf2099&show_icons=true&locale=en" alt="Youssef-Ashraf2099" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Youssef-Ashraf2099&" alt="Youssef-Ashraf2099" /></p>
