@@ -1,4 +1,3 @@
-<img width="800" height="702" alt="image" src="https://github.com/user-attachments/assets/93de01b4-cb7d-4136-add9-f75f6df80171" /><h1 align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTk3d2t4M2QwdzcydDUybTBicmdmc3A3OHdjamR5d2llNG1sZmlxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" alt="Banner Image">
 </h1>
 
