@@ -1,4 +1,4 @@
-<h1 align="center">
+<img width="800" height="702" alt="image" src="https://github.com/user-attachments/assets/93de01b4-cb7d-4136-add9-f75f6df80171" /><h1 align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTk3d2t4M2QwdzcydDUybTBicmdmc3A3OHdjamR5d2llNG1sZmlxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" alt="Banner Image">
 </h1>
 
@@ -13,6 +13,8 @@
 <p align="left">
   <a href="https://linkedin.com/in/youssef ashraf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="youssef ashraf" height="30" width="40" /></a>
   <a href="https://instagram.com/youssef2099x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="youssef2099x" height="30" width="40" /></a>
+  <a href="mailto:youssef.ashrafhilal@gmail.com">Email Joe</a>
+
   <a href="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnJieWZqZjE2d3p5YTE0Z2w0enUyNHNoMGpzbnc5bW5nNjdmMTh6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.webp" target="blank" style="float: right;"><img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnJieWZqZjE2d3p5YTE0Z2w0enUyNHNoMGpzbnc5bW5nNjdmMTh6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.webp" alt="GIF" height="200" width="200" /></a>
 </p>
 
