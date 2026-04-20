@@ -19,11 +19,17 @@
 
 ### 🛡️ Cybersecurity & Networking
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=plastic&logo=gnu-bash&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-4E9BCD?style=plastic&logo=nmap&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=plastic&logo=metasploit&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=plastic&logo=wireshark&logoColor=white) ![Burp Suite](https://img.shields.io/badge/BurpSuite-FF6633?style=plastic&logo=burpsuite&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-049FD9?style=plastic&logo=cisco&logoColor=white)
 
 ### 🚀 Languages & Frameworks
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=go&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=plastic&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=plastic&logo=nextdotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=plastic&logo=nestjs&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=plastic&logo=unity&logoColor=black)
-
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=plastic&logo=spring-boot&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=c&logoColor=black)
+![MIPS](https://img.shields.io/badge/MIPS-000000?style=plastic&logo=microchip&logoColor=white)
+![x86](https://img.shields.io/badge/x86-003C71?style=plastic&logo=intel&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=plastic&logo=nextdotjs&logoColor=white) 
+![MERN Stack](https://img.shields.io/badge/MERN_Stack-000000?style=plastic&logo=mongodb&logoColor=white) 
 ### ☁️ DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=plastic&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
 
