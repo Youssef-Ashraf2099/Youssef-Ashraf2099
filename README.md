@@ -347,4 +347,4 @@ I build secure, scalable software and explore AI to strengthen systems. I like t
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=ffffff)](https://instagram.com/youssef2099x)
 <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png">
 <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="586" height="586">
-<img class="d-block width-fit height-auto mx-auto rounded-1" src="/images/securityknightocat.png" alt="Securityknightocat">
+
