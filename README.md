@@ -1,350 +1,176 @@
-
-<p align="center">
-  <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 500ms;" src="assets/thinking.gif" width="3080" height="500">
-</p>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00F7F7,100:0B1021&height=220&section=header&text=%F0%9F%94%A5%20Youssef%20Ashraf%20%F0%9F%94%A5&fontSize=56&fontColor=ffffff&animation=twinkling&desc=Cybersecurity%20Student%20%7C%20Software%20Engineer%20%7C%20AI%20Enthusiast&descSize=16&descAlignY=70" alt="Youssef Ashraf Cover" />
-  <br>
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="820" alt="Cyber Banner" />
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=Youssef-Ashraf2099&style=for-the-badge&color=00F7F7" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Youssef-Ashraf2099?style=for-the-badge&color=0B1021&label=Followers" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Youssef-Ashraf2099?style=for-the-badge&color=00C2FF&label=Stars" alt="Stars" />
+  <img src="assets/hero-lofi-lab.svg" width="860" alt="Youssef Ashraf — Midnight Computer Nerd Lab" />
+  <br /><br />
+
+  <!-- Quick-Jump Interactive Navigation Dock -->
+  <a href="#sys-specs">
+    <img src="https://img.shields.io/badge/Sys_Specs-0F172A?style=for-the-badge&logo=linux&logoColor=00F7F7" alt="System Specs" />
+  </a>
+  <a href="#nerd-console">
+    <img src="https://img.shields.io/badge/Interactive_Console-0F172A?style=for-the-badge&logo=gnubash&logoColor=F59E0B" alt="Interactive Console" />
+  </a>
+  <a href="#tech-racks">
+    <img src="https://img.shields.io/badge/Tech_Racks-0F172A?style=for-the-badge&logo=ros&logoColor=34D399" alt="Tech Racks" />
+  </a>
+  <a href="#telemetry">
+    <img src="https://img.shields.io/badge/Telemetry-0F172A?style=for-the-badge&logo=githubactions&logoColor=A78BFA" alt="Telemetry" />
+  </a>
+  <br />
+  <a href="https://www.linkedin.com/in/youssef-ashraf-5a3167261/">
+    <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/youssef2099x">
+    <img src="https://img.shields.io/badge/Instagram-0F172A?style=for-the-badge&logo=instagram&logoColor=F472B6" alt="Instagram" />
+  </a>
+  <a href="mailto:youssef.ashrafhilal@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=F59E0B" alt="Email" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Youssef-Ashraf2099&style=for-the-badge&color=00C2FF&labelColor=0F172A&label=VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Youssef-Ashraf2099?style=for-the-badge&color=F59E0B&labelColor=0F172A&label=Followers" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Youssef-Ashraf2099?style=for-the-badge&color=34D399&labelColor=0F172A&label=Stars" alt="Stars" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2400&pause=700&color=00F7F7&background=0B1021&center=true&vCenter=true&width=900&height=90&lines=%2F%2F+Security+by+design.;while(!secure)%7B+audit();+harden();+automate();+%7D;return+trust;" alt="Code Canvas" />
+  <br />
+  <img src="assets/divider-glow.svg" width="860" alt="" />
 </div>
 
----
+<a id="sys-specs"></a>
 
-## Mission
-<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
+### 🖥️ System Specs & Nerd DNA
 
-I build secure, scalable software and explore AI to strengthen systems. I like turning threat models into clean architectures, and prototypes into reliable tools.
+<div align="center">
+  <img src="assets/nerd-specs.svg" width="860" alt="YoussefOS Neofetch & Live Telemetry" />
+</div>
 
-## Ops Console
-<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif">
+<br />
+
+> *"I'm a lifelong computer nerd who loves understanding the whole stack — from CPU registers, ROS 2 nodes, and Linux internals to game loops, scalable software, and security engineering."*
 
 <table>
   <tr>
-    <td width="50%">
-      <b>Now Building</b>
-      <br>
-      - Security automation scripts
-      <br>
-      - AI-powered developer tooling
-      <br>
-      - Systems programming experiments
+    <td width="50%" valign="top">
+      <h4>⚡ What Fires Me Up</h4>
+      <ul>
+        <li><b>Systems Engineering</b> — <code>ROS 2</code> robotics graphs, <code>Linux</code> internals, <code>Raspberry Pi</code> tinkering, <code>C/C++</code>, <code>Rust</code>, <code>x86</code> &amp; <code>MIPS</code></li>
+        <li><b>Software &amp; Cloud</b> — clean architectures, APIs, containers, and <code>Git</code> / <code>GitHub Actions</code> CI/CD automation</li>
+        <li><b>Game Dev &amp; 3D</b> — building interactive worlds, mechanics &amp; real-time visuals in <code>Unity</code> and <code>Three.js</code></li>
+        <li><b>Security &amp; Applied AI</b> — threat modeling, packet inspection, defensive tooling, and ML pipelines</li>
+      </ul>
     </td>
-    <td width="50%">
-      <b>Research Interests</b>
-      <br>
-      - Threat modeling and secure design
-      <br>
-      - Malware analysis and reverse engineering
-      <br>
-      - ML for detection and defense
-    </td>
-  </tr>
-</table>
-
-## Skill Matrix
-<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif">
-<table align="center">
- 
-  <tr>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" />
-      <br>React
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=threejs" alt="Three.js" width="48" height="48" />
-      <br>Three.js
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="50" height="50" />
-      <br>Redux
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="50" height="50" />
-      <br>Django
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="48" height="48" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50" />
-      <br>Kubernetes
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=materialui" alt="Material UI" width="48" height="48" />
-      <br>MaterialUI
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL" width="50" height="50" />
-      <br>GraphQL
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=vue" alt="Vue" width="48" height="48" />
-      <br>Vue
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nuxtjs" alt="Nuxt.js" width="48" height="48" />
-      <br>Nuxt.js
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50" />
-      <br>AWS
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=go" alt="Go" width="48" height="48" />
-      <br>Go
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
-      <br>Java
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="Sass" width="50" height="50" />
-      <br>Sass
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="48" height="48" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" />
-      <br>MySQL
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="48" height="48" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="48" height="48" />
-      <br>SQLite
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" />
-      <br>Python
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="50" height="50" />
-      <br>REST API
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50" />
-      <br>Docker
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="48" height="48" />
-      <br>Next.js
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=solidity" alt="Solidity" width="48" height="48" />
-      <br>Solidity
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="48" height="48" />
-      <br>Rust
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=angular" alt="Angular" width="48" height="48" />
-      <br>Angular
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" />
-      <br>C#
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
-      <br>C++
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=c" alt="C" width="48" height="48" />
-      <br>C
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" width="48" height="48" />
-      <br>.NET
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=unity" alt="Unity" width="48" height="48" />
-      <br>Unity
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="48" height="48" />
-      <br>Linux
-    </td>
-    <td align="center" width="90">
-     <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif">
-      <br>Git
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" width="48" height="48" />
-      <br>NestJS
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=express" alt="Express" width="48" height="48" />
-      <br>Express
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=spring" alt="Spring" width="48" height="48" />
-      <br>Spring
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90">
-      <img src="assets/nmap.svg" alt="Nmap" width="48" height="48" />
-      <br>Nmap
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.simpleicons.org/wireshark/1679A7" alt="Wireshark" width="48" height="48" />
-      <br>Wireshark
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.simpleicons.org/burpsuite/FF6633" alt="Burp Suite" width="48" height="48" />
-      <br>Burp Suite
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.simpleicons.org/metasploit/000000" alt="Metasploit" width="48" height="48" />
-      <br>Metasploit
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.simpleicons.org/cisco/049FD9" alt="Cisco" width="48" height="48" />
-      <br>Cisco
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.simpleicons.org/intel/003C71" alt="x86" width="48" height="48" />
-      <br>x86
-    </td>
-    <td align="center" width="90">
-      <img src="assets/mips.svg" alt="MIPS" width="48" height="48" />
-      <br>MIPS
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="48" height="48" />
-      <br>TensorFlow
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="48" height="48" />
-      <br>PyTorch
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.simpleicons.org/numpy/013243" alt="NumPy" width="48" height="48" />
-      <br>NumPy
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://cdn.simpleicons.org/pandas/150458" alt="Pandas" width="48" height="48" />
-      <br>Pandas
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" alt="scikit-learn" width="48" height="48" />
-      <br>scikit-learn
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="48" height="48" />
-      <br>Bash
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="48" height="48" />
-      <br>HTML5
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="48" height="48" />
-      <br>CSS3
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="48" height="48" />
-      <br>Tailwind
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="Jest" width="65" height="65" />
-      <br>Jest
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Prettier" width="65" height="65" />
-      <br>Prettier
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-      <br>GitHub
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="Raspberry Pi" width="65" height="65" />
-      <br>Raspberry Pi
+    <td width="50%" valign="top">
+      <h4>🏆 Milestones &amp; Human Languages</h4>
+      <ul>
+        <li>💻 <b>2x Software Engineering Intern @ Mylo</b> — returned twice to ship production features &amp; real-world systems</li>
+        <li>👥 <b>Led a 21-Member Team</b> — architected and delivered a full corporate <b>HR System</b> end-to-end</li>
+        <li>🤖 <b>Data Orbit Recognition</b> — recognized for building an innovative AI model</li>
+        <li>🎓 <b>DFKI &amp; DAAD Funded</b> — built an EdTech platform recognized by DFKI and funded by DAAD</li>
+        <li>🗣️ <b>Spoken Languages</b> — <code>English</code> (Fluent) · <code>Arabic</code> (Native) · <code>German</code> (A2)</li>
+      </ul>
     </td>
   </tr>
 </table>
 
-
- <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="586" height="586">
- 
-## Featured Work
-<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="586" height="256">
-- Security automation and blue team tooling (see pinned repositories)
-- AI and ML experiments for detection and analysis
-- Systems-level programming and performance projects
-
-## Trophies
-<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Youssef-Ashraf2099&theme=onedark&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" />
+  <img src="assets/divider-glow.svg" width="860" alt="" />
 </div>
 
+<a id="nerd-console"></a>
 
+### ⌨️ Interactive Nerd Console
 
-## Activity
+> *Click any terminal command below to inspect logs, projects, or diagnostics:*
+
+<details>
+  <summary><code>❯ cat /etc/youssef/computer_nerd.log</code> — <b>Why I'm obsessed with computers &amp; how I learn</b></summary>
+  <br />
+
+```yaml
+identity:
+  archetype: "Full-Stack Computer Nerd & Tech Enthusiast"
+  motto: "If it has a CPU, a kernel, a shader, or a packet — let's open it up."
+  languages:
+    arabic: "Native"
+    english: "Fluent"
+    german: "A2 (actively leveling up toward B1)"
+  rabbit_holes:
+    - "Spinning up ROS 2 nodes, Linux configs, and Raspberry Pi homelab experiments"
+    - "Writing low-level C/C++/Rust & peeking at x86/MIPS instructions"
+    - "Prototyping gameplay feel & 3D scenes in Unity and Three.js"
+    - "Automating repetitive tasks with Bash, Python, and GitHub Actions"
+```
+
+</details>
+
+<details>
+  <summary><code>❯ ls -la ~/experience_and_wins/</code> — <b>2x Mylo SWE, Leadership &amp; Awards</b></summary>
+  <br />
+
+| Role / Recognition | Organization | What I Did |
+| :--- | :--- | :--- |
+| **2x Software Engineering Intern** | **Mylo** | Returned for two internships shipping reliable production code, debugging complex flows, and collaborating across engineering teams. |
+| **Engineering Team Lead (21 Members)** | **Corporate Client** | Led a 21-person multidisciplinary team to design, build, and deliver a complete HR System. |
+| **AI Model Recognition** | **Data Orbit** | Designed and trained an innovative AI model recognized by Data Orbit. |
+| **EdTech Platform Funding** | **DFKI &amp; DAAD** | Built an educational technology platform recognized by DFKI and funded by DAAD. |
+
+</details>
+
+<details>
+  <summary><code>❯ ./explore_domains.sh --all</code> — <b>Systems · Software · Game Dev · Security</b></summary>
+  <br />
+
+- **🤖 Systems Engineering &amp; Robotics:** `ROS 2`, `Linux`, `Bash`, `Raspberry Pi`, `C`, `C++`, `Rust`, `x86`, `MIPS`
+- **⚙️ Software, Cloud &amp; Automation:** `Go`, `Python`, `Java`, `Spring`, `C#`, `.NET`, `Django`, `NestJS`, `Express`, `Docker`, `Kubernetes`, `Git`, `GitHub Actions`, `AWS`
+- **🎮 Game Dev &amp; Interactive 3D:** `Unity`, `Three.js`, `TypeScript`, `React`, `Next.js`
+- **🛡️ Security Engineering &amp; AI:** `Nmap`, `Wireshark`, `Burp Suite`, `Metasploit`, `Cisco`, `PyTorch`, `TensorFlow`, `scikit-learn`
+
+</details>
 
 <div align="center">
-  <!-- Your Cool Cyber GIF -->
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="586" alt="Cyber Activity" />
-  
-  <br>
+  <br />
+  <img src="assets/divider-glow.svg" width="860" alt="" />
+</div>
 
-  <!-- The NEW Amazing Metrics Image -->
-  <img src="https://raw.githubusercontent.com/Youssef-Ashraf2099/Youssef-Ashraf2099/main/github-metrics.svg" alt="Detailed Metrics" width="100%" />
+<a id="tech-racks"></a>
 
-  <br>
+### 🧰 Animated Tech Racks
 
-  <!-- Your existing Graph and Streak -->
-  <img src="https://streak-stats.demolab.com?user=Youssef-Ashraf2099&theme=dark&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Youssef-Ashraf2099&theme=react-dark&hide_border=true&bg_color=0B1021&color=00F7F7&line=00C2FF&point=00F7F7&area=true" alt="Activity Graph" />
+<div align="center">
+  <img src="assets/skills-systems-sec.svg" width="860" alt="Systems Engineering, Robotics, Low-Level & Security Stack" />
+  <br /><br />
+  <img src="assets/skills-ai.svg" width="860" alt="AI, Machine Learning & Data Stack" />
+  <br /><br />
+  <img src="assets/skills-backend.svg" width="860" alt="Software Engineering, Cloud, CI/CD & Databases Stack" />
+  <br /><br />
+  <img src="assets/skills-frontend.svg" width="860" alt="Frontend, Game Dev, 3D & Craft Stack" />
+</div>
 
-  <br>
+<div align="center">
+  <br />
+  <img src="assets/divider-glow.svg" width="860" alt="" />
+</div>
 
-  <!-- The Snake Finale -->
+<a id="telemetry"></a>
+
+### 📡 Late-Night Telemetry
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Youssef-Ashraf2099&background=0D1117&border=1F2D45&stroke=1F2D45&ring=F59E0B&fire=F59E0B&currStreakNum=F1F5F9&sideNums=F1F5F9&currStreakLabel=00F7F7&sideLabels=94A3B8&dates=64748B" alt="GitHub Streak" />
+  <br /><br />
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Youssef-Ashraf2099/Youssef-Ashraf2099/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Youssef-Ashraf2099/Youssef-Ashraf2099/output/github-contribution-grid-snake.svg">
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Youssef-Ashraf2099/Youssef-Ashraf2099/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Youssef-Ashraf2099/Youssef-Ashraf2099/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Youssef-Ashraf2099/Youssef-Ashraf2099/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Youssef-Ashraf2099/Youssef-Ashraf2099/output/github-contribution-grid-snake.svg" width="840" />
   </picture>
+  <br /><br />
+  <details>
+    <summary><code>❯ open ~/telemetry/github-metrics.svg</code> — <b>Detailed GitHub Metrics (Auto-Updated Daily)</b></summary>
+    <br />
+    <img src="github-metrics.svg" width="520" alt="Detailed GitHub Metrics" />
+  </details>
 </div>
 
-## Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/youssef-ashraf-5a3167261/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=ffffff)](https://instagram.com/youssef2099x)
-<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png">
-<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="586" height="586">
-
+<div align="center">
+  <br />
+  <img src="assets/cozy-footer.svg" width="860" alt="Thanks for visiting Youssef Ashraf's midnight lab" />
+</div>

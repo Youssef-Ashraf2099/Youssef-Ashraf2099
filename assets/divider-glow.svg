@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="20" viewBox="0 0 860 20" role="img" aria-label="Divider">
+  <defs>
+    <linearGradient id="divGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0D1117" stop-opacity="0"/>
+      <stop offset="25%" stop-color="#F59E0B" stop-opacity="0.55"/>
+      <stop offset="50%" stop-color="#00F7F7" stop-opacity="0.8"/>
+      <stop offset="75%" stop-color="#818CF8" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#0D1117" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="orbGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00F7F7" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#00F7F7" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <style>
+    @keyframes glide {
+      0%, 100% { transform: translateX(180px); opacity: 0.4; }
+      50% { transform: translateX(680px); opacity: 1; }
+    }
+    .orb { animation: glide 6s ease-in-out infinite; }
+  </style>
+  <rect x="20" y="9" width="820" height="2" rx="1" fill="url(#divGrad)"/>
+  <g class="orb">
+    <circle cx="0" cy="10" r="6" fill="url(#orbGlow)"/>
+    <circle cx="0" cy="10" r="2.2" fill="#FDE68A"/>
+  </g>
+</svg>

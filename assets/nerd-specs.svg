@@ -1,0 +1,128 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="218" viewBox="0 0 860 218" role="img" aria-label="YoussefOS System Specs and Live Telemetry">
+  <defs>
+    <linearGradient id="specBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B1120"/>
+      <stop offset="100%" stop-color="#11192C"/>
+    </linearGradient>
+    <linearGradient id="specBar" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8"/>
+      <stop offset="50%" stop-color="#00F7F7"/>
+      <stop offset="100%" stop-color="#F59E0B"/>
+    </linearGradient>
+    <linearGradient id="barCyan" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0284C7"/>
+      <stop offset="100%" stop-color="#00F7F7"/>
+    </linearGradient>
+    <linearGradient id="barAmber" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#D97706"/>
+      <stop offset="100%" stop-color="#FBBF24"/>
+    </linearGradient>
+    <linearGradient id="barGreen" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#059669"/>
+      <stop offset="100%" stop-color="#34D399"/>
+    </linearGradient>
+    <linearGradient id="barPurple" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7C3AED"/>
+      <stop offset="100%" stop-color="#C084FC"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    @keyframes spinSlow {
+      from { transform: rotate(0deg); }
+      to { transform: rotate(360deg); }
+    }
+    @keyframes chipPulse {
+      0%, 100% { opacity: 0.55; }
+      50% { opacity: 1; }
+    }
+    @keyframes meterBreath {
+      0%, 100% { transform: scaleX(0.92); }
+      50% { transform: scaleX(1); }
+    }
+    @keyframes xpClimb {
+      0%, 100% { transform: scaleX(0.84); }
+      50% { transform: scaleX(0.98); }
+    }
+    .coreRing { transform-box: fill-box; transform-origin: center; animation: spinSlow 14s linear infinite; }
+    .chipGlow { animation: chipPulse 2.8s ease-in-out infinite; }
+    .m1 { transform-box: fill-box; transform-origin: left; animation: meterBreath 3.2s ease-in-out infinite; }
+    .m2 { transform-box: fill-box; transform-origin: left; animation: meterBreath 2.7s ease-in-out infinite 0.4s; }
+    .m3 { transform-box: fill-box; transform-origin: left; animation: meterBreath 3.5s ease-in-out infinite 0.8s; }
+    .m4 { transform-box: fill-box; transform-origin: left; animation: xpClimb 3.0s ease-in-out infinite; }
+  </style>
+
+  <!-- Card Shell -->
+  <rect x="1" y="1" width="858" height="216" rx="16" fill="url(#specBg)" stroke="#1E293B" stroke-width="1.5"/>
+  <rect x="24" y="1" width="812" height="2.5" rx="1.25" fill="url(#specBar)"/>
+
+  <!-- Header -->
+  <text x="26" y="29" fill="#00F7F7" font-family="Consolas, 'Fira Code', monospace" font-size="12.5" font-weight="700">neofetch --user youssef-ashraf2099</text>
+  <text x="834" y="29" text-anchor="end" fill="#64748B" font-family="Consolas, monospace" font-size="11">SYS_TELEMETRY // LIVE</text>
+  <line x1="24" y1="41" x2="836" y2="41" stroke="#1E293B" stroke-width="1"/>
+
+  <!-- Left: Animated Microchip / Core Graphic -->
+  <g transform="translate(88, 128)">
+    <!-- Outer Rotating Ring -->
+    <circle class="coreRing" cx="0" cy="0" r="56" fill="none" stroke="#38BDF8" stroke-width="1.4" stroke-dasharray="8 6" opacity="0.5"/>
+    <circle cx="0" cy="0" r="44" fill="#09101E" stroke="#1E293B" stroke-width="1.5"/>
+    <!-- CPU Pins -->
+    <g stroke="#38BDF8" stroke-width="2" stroke-linecap="round" opacity="0.7">
+      <line x1="-18" y1="-34" x2="-18" y2="-26"/><line x1="-6" y1="-34" x2="-6" y2="-26"/><line x1="6" y1="-34" x2="6" y2="-26"/><line x1="18" y1="-34" x2="18" y2="-26"/>
+      <line x1="-18" y1="26" x2="-18" y2="34"/><line x1="-6" y1="26" x2="-6" y2="34"/><line x1="6" y1="26" x2="6" y2="34"/><line x1="18" y1="26" x2="18" y2="34"/>
+      <line x1="-34" y1="-18" x2="-26" y2="-18"/><line x1="-34" y1="-6" x2="-26" y2="-6"/><line x1="-34" y1="6" x2="-26" y2="6"/><line x1="-34" y1="18" x2="-26" y2="18"/>
+      <line x1="26" y1="-18" x2="34" y2="-18"/><line x1="26" y1="-6" x2="34" y2="-6"/><line x1="26" y1="6" x2="34" y2="6"/><line x1="26" y1="18" x2="34" y2="18"/>
+    </g>
+    <!-- Chip Body -->
+    <rect x="-25" y="-25" width="50" height="50" rx="9" fill="#0F172A" stroke="#00F7F7" stroke-width="1.6"/>
+    <rect class="chipGlow" x="-16" y="-16" width="32" height="32" rx="5" fill="#0D2838" stroke="#F59E0B" stroke-width="1.2"/>
+    <text x="0" y="4" text-anchor="middle" fill="#F8FAFC" font-family="Consolas, monospace" font-size="11.5" font-weight="700">2099</text>
+  </g>
+
+  <!-- Middle: System Specs Text -->
+  <g transform="translate(174, 70)" font-family="Consolas, 'Fira Code', monospace" font-size="11.8">
+    <text x="0" y="0" fill="#F59E0B" font-weight="700">OS      :</text>
+    <text x="82" y="0" fill="#E2E8F0">Computer Nerd (Linux, Bare-Metal &amp; Cloud)</text>
+
+    <text x="0" y="24" fill="#F59E0B" font-weight="700">ROLES   :</text>
+    <text x="82" y="24" fill="#38BDF8">Systems · Software · Game Dev · Security</text>
+
+    <text x="0" y="48" fill="#F59E0B" font-weight="700">EXP     :</text>
+    <text x="82" y="48" fill="#CBD5E1">2x SWE Intern @ Mylo · 21-Dev Team Lead</text>
+
+    <text x="0" y="72" fill="#F59E0B" font-weight="700">WINS    :</text>
+    <text x="82" y="72" fill="#34D399">Data Orbit AI · DFKI &amp; DAAD Funded EdTech</text>
+
+    <text x="0" y="96" fill="#F59E0B" font-weight="700">LANGS   :</text>
+    <text x="82" y="96" fill="#FDE68A">English (Fluent) · Arabic (Native) · German (A2)</text>
+
+    <text x="0" y="120" fill="#F59E0B" font-weight="700">HOBBY   :</text>
+    <text x="82" y="120" fill="#C084FC">ROS 2 Bots · Shaders · Homelabs · Coffee</text>
+  </g>
+
+  <!-- Divider -->
+  <line x1="572" y1="58" x2="572" y2="196" stroke="#1E293B" stroke-width="1"/>
+
+  <!-- Right: Animated Live Telemetry Meters -->
+  <g transform="translate(596, 66)" font-family="Consolas, monospace" font-size="10.8">
+    <text x="0" y="0" fill="#94A3B8">CURIOSITY_DRIVE</text>
+    <text x="236" y="0" text-anchor="end" fill="#00F7F7">100%</text>
+    <rect x="0" y="7" width="236" height="8" rx="4" fill="#1E293B"/>
+    <rect class="m1" x="0" y="7" width="236" height="8" rx="4" fill="url(#barCyan)"/>
+
+    <text x="0" y="36" fill="#94A3B8">COFFEE_TANK</text>
+    <text x="236" y="36" text-anchor="end" fill="#FBBF24">92%</text>
+    <rect x="0" y="43" width="236" height="8" rx="4" fill="#1E293B"/>
+    <rect class="m2" x="0" y="43" width="217" height="8" rx="4" fill="url(#barAmber)"/>
+
+    <text x="0" y="72" fill="#94A3B8">SYSTEMS_&amp;_GAME_CRAFT</text>
+    <text x="236" y="72" text-anchor="end" fill="#34D399">96%</text>
+    <rect x="0" y="79" width="236" height="8" rx="4" fill="#1E293B"/>
+    <rect class="m3" x="0" y="79" width="226" height="8" rx="4" fill="url(#barGreen)"/>
+
+    <text x="0" y="108" fill="#94A3B8">DEUTSCH_LEVEL [A2 -> B1]</text>
+    <text x="236" y="108" text-anchor="end" fill="#C084FC">LEVELING UP</text>
+    <rect x="0" y="115" width="236" height="8" rx="4" fill="#1E293B"/>
+    <rect class="m4" x="0" y="115" width="138" height="8" rx="4" fill="url(#barPurple)"/>
+  </g>
+</svg>
