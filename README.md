@@ -155,16 +155,34 @@ identity:
 ### 📡 Late-Night Telemetry
 
 <div align="center">
+  <!-- Contributions Over Time -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Youssef-Ashraf2099&theme=github_dark" width="840" alt="GitHub Contributions Profile Details" />
+  <br /><br />
+
+  <!-- Stats + Late-Night Commit Hours (UTC+2) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Youssef-Ashraf2099&theme=github_dark" width="415" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Youssef-Ashraf2099&theme=github_dark&utcOffset=2" width="415" alt="Late-Night Commit Hours (UTC+2)" />
+  <br /><br />
+
+  <!-- Most Used Programming Languages -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Youssef-Ashraf2099&theme=github_dark" width="415" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Youssef-Ashraf2099&theme=github_dark" width="415" alt="Top Languages by Commit" />
+  <br /><br />
+
+  <!-- Streak Card -->
   <img src="https://streak-stats.demolab.com?user=Youssef-Ashraf2099&background=0D1117&border=1F2D45&stroke=1F2D45&ring=F59E0B&fire=F59E0B&currStreakNum=F1F5F9&sideNums=F1F5F9&currStreakLabel=00F7F7&sideLabels=94A3B8&dates=64748B" alt="GitHub Streak" />
   <br /><br />
+
+  <!-- Contribution Snake -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Youssef-Ashraf2099/Youssef-Ashraf2099/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Youssef-Ashraf2099/Youssef-Ashraf2099/output/github-contribution-grid-snake.svg" />
     <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Youssef-Ashraf2099/Youssef-Ashraf2099/output/github-contribution-grid-snake.svg" width="840" />
   </picture>
   <br /><br />
+
   <details>
-    <summary><code>❯ open ~/telemetry/github-metrics.svg</code> — <b>Detailed GitHub Metrics (Auto-Updated Daily)</b></summary>
+    <summary><code>❯ open ~/telemetry/github-metrics.svg</code> — <b>Full Isometric Calendar, 27 Languages &amp; Deep Metrics (Auto-Updated Daily)</b></summary>
     <br />
     <img src="github-metrics.svg" width="520" alt="Detailed GitHub Metrics" />
   </details>
